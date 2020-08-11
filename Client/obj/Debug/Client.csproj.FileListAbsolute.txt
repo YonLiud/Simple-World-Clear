@@ -1,0 +1,6 @@
+E:\Simple World Clear\Client\bin\Debug\Client.dll
+E:\Simple World Clear\Client\bin\Debug\Client.pdb
+E:\Simple World Clear\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Simple World Clear\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Simple World Clear\Client\obj\Debug\Client.dll
+E:\Simple World Clear\Client\obj\Debug\Client.pdb
