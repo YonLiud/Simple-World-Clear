@@ -28,7 +28,9 @@ start sWorldClear
 
 ## Usage In Game
 
-Will start automaticlly, no user interaction
+```bash
+/pclear
+```
 
 
 
