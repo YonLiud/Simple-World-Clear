@@ -18,7 +18,7 @@ Simple World Clear enables the server to automatically clear the server of any l
 ```
 start sWorldClear
 ```
-2) Drag and drop the `EC` Folder into ``..\FXServer\server-data\resources\``
+2) Drag and drop the `sWorldClear` Folder into ``..\FXServer\server-data\resources\``
 
 3) Restart your server
 
