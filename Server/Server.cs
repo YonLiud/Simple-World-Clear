@@ -10,10 +10,14 @@ namespace Server
 {
     public class Server : BaseScript
     {
+        
         public Server()
         {
-
+            EventHandlers["requestWorldClear"] += new Action(WorldClear);
         }
-
+        public void WorldClear()
+        {
+            TriggerClientEvent("onWorldClear");
+        }
     }
 }
