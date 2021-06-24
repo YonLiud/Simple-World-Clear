@@ -19,7 +19,7 @@ namespace Client
         }
         private void OnClientResourceStart(string resourceName)
         {
-            RegisterCommand("fuckit", new Action<int, List<object>, string>((source, args, raw) =>
+            RegisterCommand("pclear", new Action<int, List<object>, string>((source, args, raw) =>
             {
                 TriggerServerEvent("requestWorldClear");
             }), false);
